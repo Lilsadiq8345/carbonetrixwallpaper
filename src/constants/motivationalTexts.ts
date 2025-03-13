@@ -24,7 +24,7 @@ export const MOTIVATIONAL_TEXTS = [
     "Sustainability is the blueprint for tomorrow.",
     "Decarbonize with confidence. We've got your back.",
     "Every decision matters. Choose sustainability.",
-    "Build better. Build greener. Build with Carbonetrix.",
+    "Build better. Build greener. Build with Carbonetrix.", 
     "The road to net zero starts with you.",
     "Sustainability is the ultimate innovation.",
     "Transform your projects. Transform the planet.",
